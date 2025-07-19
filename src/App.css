@@ -1,6 +1,5 @@
-.sidebar{
-    min-height: 800px;
-  
+.sidebar {
+  min-height: 800px;
 }
 
 .footer {
@@ -8,31 +7,30 @@
   border-top: 1px solid #dee2e6;
   padding: 10px 0;
   text-align: center;
-    position: fixed;
-    bottom: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
-
-.post-Card{
-    margin: 20px 50px;
-    padding: 20px;
-    border: 1px solid #dee2e6;
-    border-radius: 5px;
-    background-color: #ffffff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.3s ease;
-
+.post-Card {
+  margin: 20px 50px;
+  padding: 20px;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
 }
 
-.createPost{
-    width: 80%;
-    margin-top:50px;
-    margin-left: 10%;
+.createPost {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
 }
 
 .wlcMsg {
-    text-align: center;
-    margin: 10%;
-    margin-top: 35%;
-    color: #6c757d;
+  text-align: center;
+  margin: 10%;
+  margin-top: 35%;
+  color: #6c757d;
 }
